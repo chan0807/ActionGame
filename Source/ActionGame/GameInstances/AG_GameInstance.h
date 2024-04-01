@@ -15,6 +15,6 @@ class ACTIONGAME_API UAG_GameInstance : public UGameInstance
 	GENERATED_BODY()
 
 public:
-	virtual void Init();
+	virtual void Init() override;
 	
 };

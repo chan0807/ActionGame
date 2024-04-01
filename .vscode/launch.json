@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch ActionGame (Debug)",
+			"request": "launch",
+			"program": "X:\\Unreal Projects\\Udemy\\ActionGame\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "ActionGame Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "X:\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "X:\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "X:\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch ActionGame (DebugGame)",
+			"request": "launch",
+			"program": "X:\\Unreal Projects\\Udemy\\ActionGame\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "ActionGame Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "X:\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "X:\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "X:\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch ActionGame (Development)",
+			"request": "launch",
+			"program": "X:\\Unreal Projects\\Udemy\\ActionGame\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "ActionGame Win64 Development Build",
+			"args": [
+			],
+			"cwd": "X:\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "X:\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "X:\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch ActionGame (Test)",
+			"request": "launch",
+			"program": "X:\\Unreal Projects\\Udemy\\ActionGame\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "ActionGame Win64 Test Build",
+			"args": [
+			],
+			"cwd": "X:\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "X:\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "X:\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch ActionGame (Shipping)",
+			"request": "launch",
+			"program": "X:\\Unreal Projects\\Udemy\\ActionGame\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "ActionGame Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "X:\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "X:\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "X:\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch ActionGameEditor (Debug)",
+			"request": "launch",
+			"program": "X:\\Epic Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "ActionGameEditor Win64 Debug Build",
+			"args": [
+				"X:\\Unreal Projects\\Udemy\\ActionGame\\ActionGame.uproject"
+			],
+			"cwd": "X:\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "X:\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "X:\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch ActionGameEditor (DebugGame)",
+			"request": "launch",
+			"program": "X:\\Epic Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "ActionGameEditor Win64 DebugGame Build",
+			"args": [
+				"X:\\Unreal Projects\\Udemy\\ActionGame\\ActionGame.uproject"
+			],
+			"cwd": "X:\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "X:\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "X:\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch ActionGameEditor (Development)",
+			"request": "launch",
+			"program": "X:\\Epic Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "ActionGameEditor Win64 Development Build",
+			"args": [
+				"X:\\Unreal Projects\\Udemy\\ActionGame\\ActionGame.uproject"
+			],
+			"cwd": "X:\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "X:\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "X:\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "X:\\Epic Games\\UE_5.1\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=X:\\Unreal Projects\\Udemy\\ActionGame\\ActionGame.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "X:\\Epic Games\\UE_5.1"
+		}
+	]
+}

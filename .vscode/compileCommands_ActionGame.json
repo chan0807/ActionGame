@@ -1,0 +1,106 @@
+[
+	{
+		"file": "X:\\Unreal Projects\\Udemy\\ActionGame\\Source\\ActionGame\\AbilitySystem\\AttributeSets\\AG_AttributeSetBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@X:\\Unreal Projects\\Udemy\\ActionGame\\.vscode\\compileCommands_ActionGame\\ActionGame.259.rsp"
+		],
+		"directory": "X:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Unreal Projects\\Udemy\\ActionGame\\Source\\ActionGame\\AbilitySystem\\AttributeSets\\AG_AttributeSetBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@X:\\Unreal Projects\\Udemy\\ActionGame\\.vscode\\compileCommands_ActionGame\\ActionGame.259.rsp"
+		],
+		"directory": "X:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Unreal Projects\\Udemy\\ActionGame\\Source\\ActionGame\\AbilitySystem\\Components\\AG_AbilitySystemComponentBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@X:\\Unreal Projects\\Udemy\\ActionGame\\.vscode\\compileCommands_ActionGame\\ActionGame.259.rsp"
+		],
+		"directory": "X:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Unreal Projects\\Udemy\\ActionGame\\Source\\ActionGame\\AbilitySystem\\Components\\AG_AbilitySystemComponentBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@X:\\Unreal Projects\\Udemy\\ActionGame\\.vscode\\compileCommands_ActionGame\\ActionGame.259.rsp"
+		],
+		"directory": "X:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Unreal Projects\\Udemy\\ActionGame\\Source\\ActionGame\\ActionGame.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@X:\\Unreal Projects\\Udemy\\ActionGame\\.vscode\\compileCommands_ActionGame\\ActionGame.259.rsp"
+		],
+		"directory": "X:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Unreal Projects\\Udemy\\ActionGame\\Source\\ActionGame\\ActionGame.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@X:\\Unreal Projects\\Udemy\\ActionGame\\.vscode\\compileCommands_ActionGame\\ActionGame.259.rsp"
+		],
+		"directory": "X:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Unreal Projects\\Udemy\\ActionGame\\Source\\ActionGame\\ActionGame.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@X:\\Unreal Projects\\Udemy\\ActionGame\\.vscode\\compileCommands_ActionGame\\ActionGame.259.rsp"
+		],
+		"directory": "X:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Unreal Projects\\Udemy\\ActionGame\\Source\\ActionGame\\ActionGameCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@X:\\Unreal Projects\\Udemy\\ActionGame\\.vscode\\compileCommands_ActionGame\\ActionGame.259.rsp"
+		],
+		"directory": "X:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Unreal Projects\\Udemy\\ActionGame\\Source\\ActionGame\\ActionGameCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@X:\\Unreal Projects\\Udemy\\ActionGame\\.vscode\\compileCommands_ActionGame\\ActionGame.259.rsp"
+		],
+		"directory": "X:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Unreal Projects\\Udemy\\ActionGame\\Source\\ActionGame\\ActionGameGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@X:\\Unreal Projects\\Udemy\\ActionGame\\.vscode\\compileCommands_ActionGame\\ActionGame.259.rsp"
+		],
+		"directory": "X:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Unreal Projects\\Udemy\\ActionGame\\Source\\ActionGame\\ActionGameGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@X:\\Unreal Projects\\Udemy\\ActionGame\\.vscode\\compileCommands_ActionGame\\ActionGame.259.rsp"
+		],
+		"directory": "X:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Unreal Projects\\Udemy\\ActionGame\\Source\\ActionGame\\GameInstances\\AG_GameInstance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@X:\\Unreal Projects\\Udemy\\ActionGame\\.vscode\\compileCommands_ActionGame\\ActionGame.259.rsp"
+		],
+		"directory": "X:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Unreal Projects\\Udemy\\ActionGame\\Source\\ActionGame\\GameInstances\\AG_GameInstance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@X:\\Unreal Projects\\Udemy\\ActionGame\\.vscode\\compileCommands_ActionGame\\ActionGame.259.rsp"
+		],
+		"directory": "X:\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]

@@ -6,7 +6,7 @@
 
 void UAG_GameInstance::Init()
 {
-	Super:Init();
+	Super::Init();
 
 	UAbilitySystemGlobals::Get().InitGlobalData();
 }
