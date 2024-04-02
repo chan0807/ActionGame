@@ -107,7 +107,7 @@ void AActionGameCharacter::GiveAbilities()
 
 void AActionGameCharacter::ApplyStartupEffects()
 {
-	if (GetLocalRole() == ROLE_Authority && DefaultAttributeSet && AttributeSet)
+	if (GetLocalRole() == ROLE_Authority)
 	{
 		FGameplayEffectContextHandle EffectContext = AbilitySystemComponent->MakeEffectContext();
 		EffectContext.AddSourceObject(this);
